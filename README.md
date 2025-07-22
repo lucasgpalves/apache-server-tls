@@ -130,7 +130,7 @@ Não estou utilizando um firewall "ufw", logo fiz o teste apenas acessando o end
 ![it-works](./public/it-works.png)
 
 ## Conclusão
-Foi bastante proveitoso o deploy dessa VM e configuração, fornecendo-me uma base de entendimento Linux e configurações básicas em máquinas Linux. Pude reforçar conceitos de Linux e realizar o teste.
+Foi bastante proveitoso o deploy dessa VM e configuração, fornecendo-me uma base de entendimento Linux e configurações básicas em máquinas Linux. Pude reforçar conceitos de Linux (navegação entre diretórios, editores de arquivos e configuração de rede), configuração de serviços Apache e realizar o teste.
 
 Imagino que seja necessário no quesito segurança, realizar as seguintes configurações:
 - Criar um usuário com permissões específicas (Mínimo Prilégio) `adduser`
